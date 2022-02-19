@@ -10,7 +10,7 @@ To use that list, add this to the `[sources]` section of your
 `dnscrypt-proxy.toml` configuration file:
 
     [sources.'iceland-resolvers']
-    urls = ['https://raw.githubusercontent.com/melanee/resolvers/main/iceland-centric-resolvers.md']
+    urls = ['https://raw.githubusercontent.com/melanee/resolvers/main/iceland-resolvers.md']
     minisign_key = 'RWTOlBiNAsKzuOfBdZ89LVl8YFr0ZR9Q+nlo7qBR22YYrvtth78tQAys'
     cache_file = 'iceland-resolvers.md'
 
